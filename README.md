@@ -1,3 +1,3 @@
 # fokus
 time
-https://thiagoloiro.github.io/fokus/
+https://thiago-rocha-aquino.github.io/fokus/
